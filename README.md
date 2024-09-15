@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghadi03&label=Profile%20views&color=0e75b6&style=flat" alt="ghadi03" /> </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/7G8JGtc/badge-image.jpg" alt="Badge"/> <!-- Adjust the URL as needed -->
+  <img src="<"https://i.ibb.co/hRQvRMZ/Screenshot-2024-09-15-201357.png" alt="Screenshot-2024-09-15-201357" border="0"" alt="Badge"/> <!-- Adjust the URL as needed -->
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghadi03" alt="ghadi03" /></a> </p>
